@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines": {
+    "node": "8.x"
+  },
+  "scripts": {
+    "test": "mocha --exit",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.88.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
