@@ -24,3 +24,13 @@ i have hosted in heroku so you can use directly in postman as post request
 <p align='center'>
 <img src='./Selection_017.png' width='600' alt='npm start'>
 </p>
+
+Example running project link
+https://rahulgwdsitemap.herokuapp.com/
+Post method with
+
+```sh
+{
+    "url": "https://wiprodigital.com"
+}
+```
